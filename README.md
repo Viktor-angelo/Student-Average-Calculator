@@ -26,8 +26,7 @@ Technologies Used
 How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/student-grade-calculator.git
-
+ git clone https://github.com/Viktor-angelo/Student-Average-Calculator.git
 2. Open the project in a Java-compatible IDE (NetBeans, IntelliJ, or Eclipse)
 3. Run the main application class
 
